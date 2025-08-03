@@ -68,7 +68,7 @@ The project uses two datasets:
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](dashboard img.png)
+![Dashboard Screenshot](dashboard_img.png)
 
 
 
